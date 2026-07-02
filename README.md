@@ -48,7 +48,7 @@ python app/train_model.py
 uvicorn app.main:app --reload --port 8000
 ```
 
-Open **http://localhost:8000** in your browser — that's the whole app,
+Open **[http://localhost:8000**](https://spam-detector-ud17.onrender.com/) in your browser — that's the whole app,
 UI and API together on one port.
 
 ### Test the API directly
